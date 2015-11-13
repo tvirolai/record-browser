@@ -1,0 +1,18 @@
+unified module loader
+
+recordmodel.js
+alias.js -validaattori
+
+promise - asynkroniset 
+
+marc-merge-viewer (React.js pohjalla)
+
+View on react-objekteja
+
+marc-record-js
+
+melinda-api-client
+
+source cred yms. -> hakee tiedostosta environment-muuttujiin esim. käyttäjätunnuksen ja salasanan
+
+q on promise-framework
